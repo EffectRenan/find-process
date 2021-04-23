@@ -51,7 +51,7 @@
   },
   "homepage": "https://github.com/yibn2008/find-process#readme",
   "dependencies": {
-    "chalk": "^4.0.0",
+    "chalk": "^4.1.0",
     "commander": "^5.1.0",
     "debug": "^4.1.1"
   },
